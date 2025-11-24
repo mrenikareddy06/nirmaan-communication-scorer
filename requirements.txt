@@ -1,6 +1,6 @@
 streamlit==1.32.0
 sentence-transformers==2.5.1
-torch==2.2.0
+torch==2.5.1
 vaderSentiment==3.3.2
 language-tool-python==2.8
 textstat==0.7.3
