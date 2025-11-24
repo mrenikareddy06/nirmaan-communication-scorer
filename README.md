@@ -30,7 +30,7 @@ This tool evaluates spoken communication transcripts using:
 ### Run Locally
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/nirmaan-communication-scorer.git
+git clone https://github.com/mrenikareddy06/nirmaan-communication-scorer.git
 cd nirmaan-communication-scorer
 
 # Create virtual environment
